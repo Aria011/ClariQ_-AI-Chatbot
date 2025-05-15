@@ -1,5 +1,5 @@
 # ClariQ_-AI-Chatbot
-Tech Stack Used
+#Tech Stack Used
 • Programming Language: Python
 • Web Framework: Flask (for API server)
 • Database: SQLite (for persistent storage)
